@@ -66,3 +66,11 @@ button:focus
     color: #F6B400;
     box-shadow: 0px 4px 27px -12px #F6B400;
 }
+.heading{
+    color: #ffffff;
+    padding-top: 100px;
+    margin-bottom: -100px;
+    font-size: 3rem;
+    
+    
+}
